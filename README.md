@@ -24,6 +24,6 @@ The organization of necessary flag varaibles and rhe timing of their transitions
 
 ## Completed!
 
-![Start Screen] (github.com/gruntledmaker/hw12/Start Screen.png)
+![Start Screen] (https://github.com/gruntledmaker/hw12/blob/master/Start%20Screen.png)
 
 ## A Big Thanks to p5 Reference & Desmos Graphing Calculator, for assisting in the plotting of my map.
