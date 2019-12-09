@@ -24,11 +24,6 @@ The organization of necessary flag varaibles and rhe timing of their transitions
 
 ## Completed!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![GitHub Logo](/images/logo.png)
-
-
-![Start Screen] 
+![Start Screen] (https://gruntledmaker.com/images/StartScreen.png)
 
 ## A Big Thanks to p5 Reference & Desmos Graphing Calculator, for assisting in the plotting of my map.
